@@ -1,5 +1,4 @@
-# Bachelor-s-Thesis
-### Building Real-Time Multivariate Anomaly Detection Systems in Industry’s 5G Networks: A Comprehensive Workflow
+# RTAD5G: Real-Time Multivariate Anomaly Detection Systems in Industry’s 5G Networks: A Comprehensive Workflow
 
 This thesis presents a detailed exploration of real-time anomaly detection in the complex environment of 5G networks. Conducted at Sapienza University of Rome in collaboration with Hewlett Packard Enterprise (HPE), the project addresses the challenges of identifying anomalies in high-dimensional, weakly correlated, and unlabeled multivariate time series data typical in 5G networks.
 
